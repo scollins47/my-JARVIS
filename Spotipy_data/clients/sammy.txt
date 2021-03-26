@@ -1,3 +1,0 @@
-username = mlinspinship16
-client_id = bcf93d38d48440ca800ece19fab24511
-client_secret = 75da85585a664043956cacd3a22bf6e9
