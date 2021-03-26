@@ -6,7 +6,7 @@ also dont use any of the pictures for any illegal or malicious reasons.
 This was mainly a pet project that I have always wanted to do, I think having an AI that doesn't listen and send all the data it collects to google or amazon
 would be really cool and fun to have. I began working on this project around August 2020 (summer break), not only has it been a really good learning experience for Python, and tensor flow,
 but working with an ARM architecture has been another huge learning experience as I just started learning about the effects of different architectures and how they store data in my 
-computer systems class. 
+computer systems class. I never have much time to work on it with college and all, so pardon the messy/rushed code, but I try to work on it at least once or twice a week to keep the ideas flowing.
 My plan for this project is to eventually to have a jarvis from iron man type ai.
 
 ## Goals
