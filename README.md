@@ -12,7 +12,7 @@ My plan for this project is to eventually to have a jarvis from iron man type ai
 ## Goals
 ### General
   - comment everything lol
-  - Spoonacular API, make recipe getter for food.
+  - ToDo - list
   - clean up code (i know you're supposed to never write un-clean code -_-)
   - add stock predictor api, should be easy, just have to configure it on the raspi
   - add at least 2 new voice commands a week. 
