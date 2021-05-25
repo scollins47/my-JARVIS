@@ -1,4 +1,4 @@
-# my-JARVIS (trigger is sixteen for now, easily modifiable)
+# my-JARVIS (trigger is atlas for now, easily modifiable)
 personal AI developed by me for raspberry pi 4 (NOOBS os), with tensor flow for some snazzy add ons :), DONT USE THIS TO TAKE OVER THE WORLD!!
 also dont use any of the pictures for any illegal or malicious reasons.
 
