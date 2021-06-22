@@ -37,3 +37,6 @@ My plan for this project is to eventually to have a jarvis from iron man type ai
 ### Speech Recognition
   - update so that it actually listens in real-time and not in psuedo real time ie. every 3 seconds it records and then quickly checks for trigger word
   - implement chat bot, with memory, should be easy (throw back to oberle's class using a tree to keep track of questions/responses)
+
+## IDEAS:
+  - laser maze, reqs. 1 laser diode, a laser reciever, and a lot of tiny mirrors angled correctly. 20$
