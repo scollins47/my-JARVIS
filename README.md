@@ -16,7 +16,6 @@ My plan for this project is to eventually to have a jarvis from iron man type ai
   - add at least 2 new voice commands a week. 
   - add chat bot 
   - Figure out how big of a model the pi can take with GPT-NEO / integrate GPT-NEO from mac -> pi
-  - create GUI/visual interface that makes it a bit more non-compsci people friendly 
   - create a memory system so that the pi knows who it has talked to (MongoDB on the webserver part, or PI DB)
   
 ### Thread/Make concurrent:
